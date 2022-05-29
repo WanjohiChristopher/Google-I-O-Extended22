@@ -1,6 +1,6 @@
 # Google-I-O-Extended-
 
-| Name  | Second Header |
+| Band Names  | Description |
 | ------------- | ------------- |
 | ssm  | Surface soil moisture |
 | susm | Subsurface soil moisture |
