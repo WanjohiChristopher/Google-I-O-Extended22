@@ -1,4 +1,4 @@
-
+// evapotranspiration dataset
 var evapotransppiration = ee.ImageCollection("MODIS/006/MOD16A2")
            . filterBounds(Kericho)
           // selecting only Totalevapotranspiration
