@@ -21,13 +21,3 @@ combinedchart.setOptions({
 })
 
 print(combinedchart)
-
-
-
-
-
-
-
-
-
-
