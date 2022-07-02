@@ -1,6 +1,7 @@
 # Google-I-O-Extended- Google Earth Engine
 
 ### NASA-USDA Enhanced SMAP Global Soil Moisture Data 
+
 | Band Names  | Description |
 | ------------- | ------------- |
 | ssm  | Surface soil moisture |
